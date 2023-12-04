@@ -1,0 +1,191 @@
+Phrase Num,Selection Num,Click Num,Phrase Text,Typed Text,Click Time Relative (s),Click Time Absolute (s)
+1,1,1,now put want now you ,now ,0.1857,1644438698
+1,1,2,now put want now you ,now ,-0.3553,1644438699
+1,1,3,now put want now you ,now ,0.3234,1644438701
+1,1,4,now put want now you ,now ,-0.0049,1644438704
+1,2,1,now put want now you ,now put ,0.1578,1644438706
+1,2,2,now put want now you ,now put ,0.5719,1644438707
+1,2,3,now put want now you ,now put ,0.2296,1644438713
+1,2,4,now put want now you ,now put ,0.0679,1644438715
+1,3,1,now put want now you ,now put want ,-0.0099,1644438721
+1,3,2,now put want now you ,now put want ,0.019,1644438724
+1,3,3,now put want now you ,now put want ,-0.1706,1644438727
+1,4,1,now put want now you ,now put want now ,1.01,1644438727
+1,4,2,now put want now you ,now put want now ,0.0529,1644438731
+1,4,3,now put want now you ,now put want now ,0.2944,1644438732
+1,4,4,now put want now you ,now put want now ,0.022,1644438737
+1,5,1,now put want now you ,now put want now you ,-0.0109,1644438739
+1,5,2,now put want now you ,now put want now you ,-0.0109,1644438744
+1,5,3,now put want now you ,now put want now you ,0.1078,1644438747
+1,6,1,now put want now you ,now put want now you .,0.1328,1644438750
+1,6,2,now put want now you ,now put want now you .,-0.3563,1644438755
+1,6,3,now put want now you ,now put want now you .,-0.5469,1644438759
+1,6,4,now put want now you ,now put want now you .,-0.2594,1644438762
+1,7,1,now put want now you ,now put want now you .break ,0.1727,1644438762
+1,7,2,now put want now you ,now put want now you .break ,-0.1297,1644438766
+1,7,3,now put want now you ,now put want now you .break ,-0.8323,1644438768
+1,7,4,now put want now you ,now put want now you .break ,-0.7694,1644438770
+1,7,5,now put want now you ,now put want now you .break ,-0.4091,1644438772
+1,8,1,now put want now you ,now put want now you .break .,0.2036,1644438775
+1,8,2,now put want now you ,now put want now you .break .,0.1158,1644438777
+1,8,3,now put want now you ,now put want now you .break .,-0.0758,1644438780
+1,9,1,now put want now you ,now put want now you .break ..,0.1338,1644438783
+1,9,2,now put want now you ,now put want now you .break ..,0.0699,1644438788
+1,9,3,now put want now you ,now put want now you .break ..,0.0689,1644438791
+2,1,1,mad eat get want again ,mad ,-0.0988,1644438795
+2,1,2,mad eat get want again ,mad ,-0.1547,1644438798
+2,1,3,mad eat get want again ,mad ,0.0998,1644438801
+2,2,1,mad eat get want again ,mad eat ,-0.2105,1644438807
+2,2,2,mad eat get want again ,mad eat ,-0.3223,1644438812
+2,2,3,mad eat get want again ,mad eat ,0.0699,1644438813
+2,2,4,mad eat get want again ,mad eat ,-0.1377,1644438815
+2,3,1,mad eat get want again ,mad eat get ,-0.2504,1644438819
+2,3,2,mad eat get want again ,mad eat get ,-0.2504,1644438822
+2,3,3,mad eat get want again ,mad eat get ,0.029,1644438827
+2,4,1,mad eat get want again ,mad eat get want ,0.2695,1644438833
+2,4,2,mad eat get want again ,mad eat get want ,0.4601,1644438834
+2,4,3,mad eat get want again ,mad eat get want ,0.1268,1644438838
+2,4,4,mad eat get want again ,mad eat get want ,-0.0438,1644438841
+2,5,1,mad eat get want again ,mad eat get want again ,0.1328,1644438847
+2,5,2,mad eat get want again ,mad eat get want again ,-0.0319,1644438850
+2,5,3,mad eat get want again ,mad eat get want again ,-0.1626,1644438852
+2,6,1,mad eat get want again ,mad eat get want again .,-0.1636,1644438855
+2,6,2,mad eat get want again ,mad eat get want again .,0.542,1644438856
+2,6,3,mad eat get want again ,mad eat get want again .,0.0529,1644438857
+2,6,4,mad eat get want again ,mad eat get want again .,-0.0518,1644438860
+2,7,1,mad eat get want again ,mad eat get want again ..,-0.1656,1644438863
+2,7,2,mad eat get want again ,mad eat get want again ..,0.487,1644438864
+2,7,3,mad eat get want again ,mad eat get want again ..,-0.0039,1644438865
+2,7,4,mad eat get want again ,mad eat get want again ..,-0.0978,1644438867
+3,1,1,don't stop do hard take ,don't ,0.028,1644438873
+3,1,2,don't stop do hard take ,don't ,-0.0568,1644438875
+3,1,3,don't stop do hard take ,don't ,-0.0209,1644438878
+3,2,1,don't stop do hard take ,don't stop ,0.02,1644438880
+3,2,2,don't stop do hard take ,don't stop ,-0.0438,1644438882
+3,2,3,don't stop do hard take ,don't stop ,-0.1068,1644438885
+3,3,1,don't stop do hard take ,don't stop do ,0.0539,1644438889
+3,3,2,don't stop do hard take ,don't stop do ,-0.0508,1644438892
+3,3,3,don't stop do hard take ,don't stop do ,0.0998,1644438895
+3,4,1,don't stop do hard take ,don't stop do hard ,0.011,1644438900
+3,4,2,don't stop do hard take ,don't stop do hard ,0.0679,1644438903
+3,4,3,don't stop do hard take ,don't stop do hard ,0.1468,1644438906
+3,5,1,don't stop do hard take ,don't stop do hard you ,-0.0918,1644438908
+3,5,2,don't stop do hard take ,don't stop do hard you ,0.4202,1644438909
+3,5,3,don't stop do hard take ,don't stop do hard you ,-0.0269,1644438910
+3,6,1,don't stop do hard take ,don't stop do hard you take ,0.0888,1644438911
+3,6,2,don't stop do hard take ,don't stop do hard you take ,-0.1636,1644438917
+3,6,3,don't stop do hard take ,don't stop do hard you take ,0.3554,1644438920
+3,7,1,don't stop do hard take ,don't stop do hard you take .,-0.6007,1644438922
+3,7,2,don't stop do hard take ,don't stop do hard you take .,0.2775,1644438925
+3,7,3,don't stop do hard take ,don't stop do hard you take .,-0.2345,1644438929
+3,7,4,don't stop do hard take ,don't stop do hard you take .,-1.2085,1644438930
+3,7,5,don't stop do hard take ,don't stop do hard you take .,-0.0598,1644438931
+3,8,1,don't stop do hard take ,don't stop do hard you take ..,-0.1706,1644438934
+3,8,2,don't stop do hard take ,don't stop do hard you take ..,0.6836,1644438935
+3,8,3,don't stop do hard take ,don't stop do hard you take ..,0.014,1644438939
+3,8,4,don't stop do hard take ,don't stop do hard you take ..,0.1727,1644438942
+4,1,1,work eat make mine little ,work ,-0.2424,1644438948
+4,1,2,work eat make mine little ,work ,-0.3792,1644438952
+4,1,3,work eat make mine little ,work ,0.1817,1644438953
+4,1,4,work eat make mine little ,work ,-0.0748,1644438956
+4,2,1,work eat make mine little ,work something_different ,-1.2564,1644438962
+4,2,2,work eat make mine little ,work something_different ,0.6497,1644438963
+4,2,3,work eat make mine little ,work something_different ,-0.6895,1644438964
+4,2,4,work eat make mine little ,work something_different ,0.6587,1644438965
+4,2,5,work eat make mine little ,work something_different ,0.03,1644438966
+4,3,1,work eat make mine little ,work something_different mine ,-0.3383,1644438967
+4,3,2,work eat make mine little ,work something_different mine ,0.547,1644438969
+4,3,3,work eat make mine little ,work something_different mine ,-0.5628,1644438970
+4,3,4,work eat make mine little ,work something_different mine ,-0.2974,1644438971
+4,3,5,work eat make mine little ,work something_different mine ,0.021,1644438973
+4,4,1,work eat make mine little ,work something_different mine mine ,-0.0678,1644438979
+4,4,2,work eat make mine little ,work something_different mine mine ,-0.2115,1644438984
+4,4,3,work eat make mine little ,work something_different mine mine ,-0.1317,1644438987
+4,5,1,work eat make mine little ,work something_different mine mine little ,-0.1626,1644438992
+4,5,2,work eat make mine little ,work something_different mine mine little ,0.1008,1644438993
+4,5,3,work eat make mine little ,work something_different mine mine little ,-0.3513,1644438996
+4,5,4,work eat make mine little ,work something_different mine mine little ,0.1338,1644438999
+4,6,1,work eat make mine little ,work something_different mine mine little .,0.0679,1644439002
+4,6,2,work eat make mine little ,work something_different mine mine little .,-0.3722,1644439002
+4,6,3,work eat make mine little ,work something_different mine mine little .,0.1008,1644439008
+4,6,4,work eat make mine little ,work something_different mine mine little .,0.2745,1644439011
+4,7,1,work eat make mine little ,work something_different mine mine little .see ,0.1877,1644439014
+4,7,2,work eat make mine little ,work something_different mine mine little .see ,-0.45,1644439015
+4,7,3,work eat make mine little ,work something_different mine mine little .see ,-0.1786,1644439016
+4,7,4,work eat make mine little ,work something_different mine mine little .see ,-1.457,1644439017
+4,7,5,work eat make mine little ,work something_different mine mine little .see ,-0.3473,1644439022
+4,8,1,work eat make mine little ,work something_different mine mine little .see .,0.0449,1644439025
+4,8,2,work eat make mine little ,work something_different mine mine little .see .,-0.2984,1644439028
+4,8,3,work eat make mine little ,work something_different mine mine little .see .,-0.1078,1644439030
+4,9,1,work eat make mine little ,work something_different mine mine little .see ..,-0.2115,1644439033
+4,9,2,work eat make mine little ,work something_different mine mine little .see ..,-0.0668,1644439039
+4,9,3,work eat make mine little ,work something_different mine mine little .see ..,0.1717,1644439042
+4,9,4,work eat make mine little ,work something_different mine mine little .see ..,0.005,1644439045
+5,1,1,turn what now in who ,turn ,-0.3223,1644439051
+5,1,2,turn what now in who ,turn ,-0.0568,1644439055
+5,1,3,turn what now in who ,turn ,0.1508,1644439058
+5,1,4,turn what now in who ,turn ,0.0759,1644439061
+5,2,1,turn what now in who ,turn what ,-0.0339,1644439065
+5,2,2,turn what now in who ,turn what ,-0.2994,1644439070
+5,2,3,turn what now in who ,turn what ,0.1977,1644439073
+5,2,4,turn what now in who ,turn what ,0.1897,1644439076
+5,3,1,turn what now in who ,turn what now ,-0.2285,1644439080
+5,3,2,turn what now in who ,turn what now ,0.4521,1644439081
+5,3,3,turn what now in who ,turn what now ,0.0928,1644439082
+5,3,4,turn what now in who ,turn what now ,-0.0718,1644439085
+5,4,1,turn what now in who ,turn what now in ,0.0679,1644439089
+5,4,2,turn what now in who ,turn what now in ,0.1498,1644439092
+5,4,3,turn what now in who ,turn what now in ,-0.3952,1644439095
+5,5,1,turn what now in who ,turn what now in who ,0.1008,1644439107
+5,5,2,turn what now in who ,turn what now in who ,-0.7545,1644439111
+5,5,3,turn what now in who ,turn what now in who ,0.3973,1644439112
+5,5,4,turn what now in who ,turn what now in who ,-0.2964,1644439117
+5,6,1,turn what now in who ,turn what now in who .,-0.1876,1644439120
+5,6,2,turn what now in who ,turn what now in who .,-0.0428,1644439124
+5,6,3,turn what now in who ,turn what now in who .,-0.0898,1644439127
+5,7,1,turn what now in who ,turn what now in who .less ,-0.0918,1644439129
+5,7,2,turn what now in who ,turn what now in who .less ,-0.5,1644439130
+5,7,3,turn what now in who ,turn what now in who .less ,-0.1926,1644439131
+5,7,4,turn what now in who ,turn what now in who .less ,0.4192,1644439134
+5,8,1,turn what now in who ,turn what now in who .less .,-0.3932,1644439137
+5,8,2,turn what now in who ,turn what now in who .less .,-0.1307,1644439138
+5,8,3,turn what now in who ,turn what now in who .less .,-0.1237,1644439144
+5,9,1,turn what now in who ,turn what now in who .less .work ,0.1178,1644439144
+5,9,2,turn what now in who ,turn what now in who .less .work ,0.3554,1644439148
+5,9,3,turn what now in who ,turn what now in who .less .work ,-0.5279,1644439153
+5,9,4,turn what now in who ,turn what now in who .less .work ,-1.5439,1644439154
+5,9,5,turn what now in who ,turn what now in who .less .work ,-0.5219,1644439159
+5,10,1,turn what now in who ,turn what now in who .less .work .,-0.1058,1644439162
+5,10,2,turn what now in who ,turn what now in who .less .work .,-0.3074,1644439164
+5,10,3,turn what now in who ,turn what now in who .less .work .,-0.1437,1644439167
+5,11,1,turn what now in who ,turn what now in who .less .work ..,0.1248,1644439175
+5,11,2,turn what now in who ,turn what now in who .less .work ..,-0.0359,1644439177
+5,11,3,turn what now in who ,turn what now in who .less .work ..,-0.0189,1644439180
+6,1,1,mine little now play more ,mine ,0.549,1644439186
+6,1,2,mine little now play more ,mine ,-0.0658,1644439189
+6,1,3,mine little now play more ,mine ,0.554,1644439191
+6,1,4,mine little now play more ,mine ,0.028,1644439196
+6,2,1,mine little now play more ,mine little ,-0.0998,1644439201
+6,2,2,mine little now play more ,mine little ,-0.1796,1644439206
+6,2,3,mine little now play more ,mine little ,0.005,1644439208
+6,3,1,mine little now play more ,mine little now ,0.0878,1644439213
+6,3,2,mine little now play more ,mine little now ,0.2934,1644439214
+6,3,3,mine little now play more ,mine little now ,-0.1307,1644439220
+6,3,4,mine little now play more ,mine little now ,0.6457,1644439223
+6,4,1,mine little now play more ,mine little now play ,-0.1397,1644439227
+6,4,2,mine little now play more ,mine little now play ,0.1168,1644439231
+6,4,3,mine little now play more ,mine little now play ,0.0479,1644439234
+6,5,1,mine little now play more ,mine little now play more ,0.502,1644439236
+6,5,2,mine little now play more ,mine little now play more ,0.0998,1644439239
+6,5,3,mine little now play more ,mine little now play more ,0.2685,1644439242
+6,6,1,mine little now play more ,mine little now play more .,-0.1716,1644439245
+6,6,2,mine little now play more ,mine little now play more .,0.2535,1644439249
+6,6,3,mine little now play more ,mine little now play more .,0.9621,1644439253
+6,6,4,mine little now play more ,mine little now play more .,0.0529,1644439257
+6,6,5,mine little now play more ,mine little now play more .,0.2346,1644439260
+6,7,1,mine little now play more ,mine little now play more ..,-0.1517,1644439263
+6,7,2,mine little now play more ,mine little now play more ..,0.0928,1644439265
+6,7,3,mine little now play more ,mine little now play more ..,-0.0359,1644439267
+7,1,1,have scared bumpy you turn ,have ,0.0599,1644439272
+7,1,2,have scared bumpy you turn ,have ,0.1328,1644439274
+7,1,3,have scared bumpy you turn ,have ,-0.0508,1644439277

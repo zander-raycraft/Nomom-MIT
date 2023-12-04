@@ -1,0 +1,197 @@
+Phrase Num,Selection Num,Click Num,Typed Text,Click Time Relative (s),Click Time Absolute (s)
+1,1,1,get ,0.0717,1646260651
+1,1,2,get ,-0.0007,1646260654
+1,1,3,get ,0.0547,1646260656
+1,2,1,get put ,0.0667,1646260658
+1,2,2,get put ,-0.0227,1646260662
+1,2,3,get put ,0.03,1646260665
+1,3,1,get put excited ,0.0894,1646260672
+1,3,2,get put excited ,0.1371,1646260675
+1,3,3,get put excited ,0.0497,1646260677
+1,4,1,get put excited away ,-0.0067,1646260679
+1,4,2,get put excited away ,0.1114,1646260682
+1,5,1,get put excited away hard ,-0.0067,1646260687
+1,5,2,get put excited away hard ,0.0834,1646260690
+1,6,1,get put excited away hard .,0.1461,1646260692
+1,6,2,get put excited away hard .,0.0884,1646260695
+1,6,3,get put excited away hard .,0.0707,1646260697
+1,7,1,get put excited away hard ..,0.0437,1646260699
+1,7,2,get put excited away hard ..,0.0527,1646260703
+1,7,3,get put excited away hard ..,0.1401,1646260705
+2,1,1,bumpy ,0.1381,1646260709
+2,1,2,bumpy ,0.2838,1646260711
+2,1,3,bumpy ,0.0834,1646260713
+2,2,1,bumpy sick ,0.0507,1646260716
+2,2,2,bumpy sick ,0.1241,1646260718
+2,2,3,bumpy sick ,0.0647,1646260720
+2,3,1,bumpy sick it ,0.1251,1646260725
+2,3,2,bumpy sick it ,-0.0057,1646260727
+2,3,3,bumpy sick it ,0.017,1646260729
+2,4,1,bumpy sick it help ,0.0757,1646260734
+2,4,2,bumpy sick it help ,0.1371,1646260739
+2,5,1,bumpy sick it help mine ,0.0954,1646260744
+2,5,2,bumpy sick it help mine ,0.1847,1646260746
+2,5,3,bumpy sick it help mine ,0.1707,1646260749
+2,6,1,bumpy sick it help mine .,0.2344,1646260751
+2,6,2,bumpy sick it help mine .,0.1647,1646260755
+2,6,3,bumpy sick it help mine .,0.0854,1646260757
+2,7,1,bumpy sick it help mine ..,0.1351,1646260760
+2,7,2,bumpy sick it help mine ..,0.1927,1646260762
+2,7,3,bumpy sick it help mine ..,0.1311,1646260765
+3,1,1,feel ,0.1501,1646260769
+3,1,2,feel ,0.2304,1646260771
+3,1,3,feel ,0.1867,1646260774
+3,2,1,feel work ,0.1777,1646260778
+3,2,2,feel work ,0.2314,1646260783
+3,3,1,feel work work ,0.1044,1646260787
+3,3,2,feel work work ,0.1241,1646260792
+3,4,1,feel work work read ,0.1817,1646260795
+3,4,2,feel work work read ,0.1491,1646260797
+3,5,1,feel work work read something_different ,0.2274,1646260799
+3,5,2,feel work work read something_different ,-0.0147,1646260800
+3,5,3,feel work work read something_different ,0.1044,1646260803
+3,6,1,feel work work read something_different .,0.0757,1646260805
+3,6,2,feel work work read something_different .,0.0547,1646260808
+3,6,3,feel work work read something_different .,0.003,1646260810
+3,7,1,feel work work read something_different ..,0.1241,1646260813
+3,7,2,feel work work read something_different ..,0.1281,1646260817
+4,1,1,here ,0.1391,1646260822
+4,1,2,here ,0.2354,1646260825
+4,1,3,here ,0.2144,1646260827
+4,2,1,here in ,0.2064,1646260831
+4,2,2,here in ,0.1271,1646260835
+4,3,1,here in make ,0.2878,1646260838
+4,3,2,here in make ,0.2204,1646260840
+4,3,3,here in make ,0.1807,1646260843
+4,4,1,here in make do ,0.1561,1646260846
+4,4,2,here in make do ,0.1014,1646260848
+4,5,1,here in make do in ,0.0697,1646260852
+4,5,2,here in make do in ,0.0914,1646260853
+4,6,1,here in make do in .,0.2044,1646260856
+4,6,2,here in make do in .,0.0647,1646260858
+4,6,3,here in make do in .,0.1727,1646260860
+4,7,1,here in make do in ..,0.1491,1646260863
+4,7,2,here in make do in ..,0.1331,1646260865
+4,7,3,here in make do in ..,0.008,1646260867
+5,1,1,easy ,0.0797,1646260871
+5,1,2,easy ,0.1471,1646260875
+5,2,1,easy all_gone ,0.1541,1646260878
+5,2,2,easy all_gone ,0.0994,1646260880
+5,2,3,easy all_gone ,0.1637,1646260882
+5,3,1,easy all_gone little ,0.2481,1646260886
+5,3,2,easy all_gone little ,0.1221,1646260887
+5,4,1,easy all_gone little more ,0.1757,1646260894
+5,4,2,easy all_gone little more ,0.1707,1646260896
+5,5,1,easy all_gone little more soft ,0.1987,1646260901
+5,5,2,easy all_gone little more soft ,0.0487,1646260905
+5,6,1,easy all_gone little more soft .,0.0597,1646260908
+5,6,2,easy all_gone little more soft .,0.0787,1646260911
+5,7,1,easy all_gone little more soft ..,0.0874,1646260914
+5,7,2,easy all_gone little more soft ..,0.1301,1646260919
+6,1,1,sick ,0.1481,1646260921
+6,1,2,sick ,0.0934,1646260924
+6,1,3,sick ,0.1044,1646260926
+6,2,1,sick sick ,0.0924,1646260929
+6,2,2,sick sick ,0.1511,1646260932
+6,3,1,sick sick good ,0.1667,1646260936
+6,3,2,sick sick good ,0.1637,1646260938
+6,4,1,sick sick good now ,0.1607,1646260942
+6,4,2,sick sick good now ,0.1301,1646260944
+6,5,1,sick sick good now good ,0.2878,1646260948
+6,5,2,sick sick good now good ,0.2014,1646260951
+6,6,1,sick sick good now good .,0.2114,1646260953
+6,6,2,sick sick good now good .,0.018,1646260954
+6,6,3,sick sick good now good .,0.0894,1646260957
+6,7,1,sick sick good now good ..,0.1481,1646260959
+6,7,2,sick sick good now good ..,0.1351,1646260961
+6,7,3,sick sick good now good ..,0.1241,1646260964
+7,1,1,bumpy ,0.1837,1646260967
+7,1,2,bumpy ,0.0657,1646260970
+7,2,1,bumpy like ,0.2234,1646260977
+7,2,2,bumpy like ,0.1034,1646260978
+7,2,3,bumpy like ,0.014,1646260981
+7,3,1,bumpy like it ,0.1331,1646260985
+7,3,2,bumpy like it ,0.1014,1646260987
+7,4,1,bumpy like it mad ,0.1074,1646260990
+7,4,2,bumpy like it mad ,0.1241,1646260993
+7,4,3,bumpy like it mad ,0.0567,1646260995
+7,5,1,bumpy like it mad put ,0.0457,1646260998
+7,5,2,bumpy like it mad put ,0.1281,1646260999
+7,6,1,bumpy like it mad put .,0.1211,1646261001
+7,6,2,bumpy like it mad put .,0.0934,1646261005
+7,6,3,bumpy like it mad put .,0.0874,1646261008
+7,7,1,bumpy like it mad put ..,0.0994,1646261010
+7,7,2,bumpy like it mad put ..,0.021,1646261012
+7,7,3,bumpy like it mad put ..,0.0727,1646261014
+8,1,1,i ,0.1104,1646261016
+8,1,2,i ,0.1114,1646261018
+8,1,3,i ,0.0924,1646261020
+8,2,1,i soft ,0.1501,1646261025
+8,2,2,i soft ,0.2364,1646261027
+8,2,3,i soft ,-0.0047,1646261029
+8,3,1,i soft make ,0.1094,1646261032
+8,3,2,i soft make ,-0.0971,1646261032
+8,3,3,i soft make ,0.035,1646261037
+8,4,1,i soft make read ,0.3872,1646261040
+8,4,2,i soft make read ,0.1797,1646261045
+8,5,1,i soft make read sad ,0.037,1646261049
+8,5,2,i soft make read sad ,0.0437,1646261050
+8,6,1,i soft make read sad .,0.1174,1646261052
+8,6,2,i soft make read sad .,0.0577,1646261057
+8,6,3,i soft make read sad .,0.1094,1646261059
+8,7,1,i soft make read sad ..,0.1044,1646261061
+8,7,2,i soft make read sad ..,0.03,1646261062
+8,7,3,i soft make read sad ..,0.1154,1646261065
+9,1,1,sad ,0.1401,1646261069
+9,1,2,sad ,0.0537,1646261071
+9,2,1,sad read ,0.1727,1646261074
+9,2,2,sad read ,0.1054,1646261078
+9,3,1,sad read eat ,0.1451,1646261084
+9,3,2,sad read eat ,0.1004,1646261086
+9,4,1,sad read eat mine ,0.1311,1646261091
+9,4,2,sad read eat mine ,0.1461,1646261094
+9,5,1,sad read eat mine mad ,0.1541,1646261096
+9,5,2,sad read eat mine mad ,0.1241,1646261101
+9,6,1,sad read eat mine mad .,0.2064,1646261103
+9,6,2,sad read eat mine mad .,0.0854,1646261106
+9,6,3,sad read eat mine mad .,0.1471,1646261109
+9,7,1,sad read eat mine mad ..,-0.1141,1646261111
+9,7,2,sad read eat mine mad ..,0.0944,1646261115
+9,7,3,sad read eat mine mad ..,0.2501,1646261117
+10,1,1,feel ,0.1411,1646261122
+10,1,2,feel ,0.2184,1646261124
+10,2,1,feel bad ,0.0904,1646261130
+10,2,2,feel bad ,0.2344,1646261135
+10,3,1,feel bad on ,0.036,1646261138
+10,3,2,feel bad on ,0.1697,1646261141
+10,4,1,feel bad on again ,0.1847,1646261146
+10,4,2,feel bad on again ,0.1184,1646261149
+10,5,1,feel bad on again give ,0.1967,1646261154
+10,5,2,feel bad on again give ,0.1737,1646261158
+10,6,1,feel bad on again give .,0.038,1646261160
+10,6,2,feel bad on again give .,0.1341,1646261163
+10,6,3,feel bad on again give .,0.0697,1646261165
+10,7,1,feel bad on again give ..,0.0964,1646261168
+10,7,2,feel bad on again give ..,0.1421,1646261169
+10,7,3,feel bad on again give ..,-0.0137,1646261172
+11,1,1,work ,0.1571,1646261176
+11,1,2,work ,0.0814,1646261179
+11,2,1,work stop ,0.1877,1646261180
+11,2,2,work stop ,0.1627,1646261182
+11,3,1,work stop bad ,0.0934,1646261184
+11,3,2,work stop bad ,0.1371,1646261189
+11,4,1,work stop bad something_different ,0.1094,1646261191
+11,4,2,work stop bad something_different ,0.2344,1646261195
+11,5,1,work stop bad something_different soft ,0.1967,1646261200
+11,5,2,work stop bad something_different soft ,0.1521,1646261204
+11,6,1,work stop bad something_different soft .,0.0437,1646261207
+11,6,2,work stop bad something_different soft .,0.0894,1646261209
+11,6,3,work stop bad something_different soft .,0.0587,1646261211
+11,7,1,work stop bad something_different soft ..,0.1164,1646261214
+11,7,2,work stop bad something_different soft ..,0.1561,1646261218
+11,7,3,work stop bad something_different soft ..,0.1231,1646261221
+12,1,1,take ,0.2084,1646261226
+12,1,2,take ,0.0904,1646261231
+12,2,1,take where ,0.0003,1646261232
+12,2,2,take where ,0.0497,1646261235
+12,2,3,take where ,0.1717,1646261238
