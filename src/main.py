@@ -6,7 +6,7 @@
 
     3) Was one user more efficient in the sense that they had to click fewer times to make a selection?
 
-    4) Explain your reasoning; your explanation should include some graphs of the data.
+    4) Explain your reasoning; your explanation should include some graphs of the data. [DONE]
 '''
 
 import pandas as pd
@@ -79,6 +79,37 @@ def calc_and_print_typeSpeed(data):
     return avg_TS
 
 
+'''
+    @description: This takes data and counts the number of clicks per word then calculates the average click per word
+
+    @params: Data -> pd.read_csv file containing the users data
+    @returns: Num -> The average number of clicks per word
+'''
+def avg_clicks(data):
+    # A list that where each element is the number of clicks it took to get to the next word
+    click_per_word = []
+
+    num = 1 # set to 1 to indicate the inital click
+
+    # iter through data and count the number of clicks
+    for i in range(1, len(data)):
+        if data['Typed Text'].iloc[i] == data['Typed Text'].iloc[i - 1]:
+            # succesful click but has not changed the word
+            num += 1
+        else:
+            # the Typed Text data changed
+            click_per_word.append(num)
+            num = 1
+
+    # adding the number of clicks to the list
+    click_per_word.append(num)
+
+    # calculating the avg amount of clicks
+    avg_click = sum(click_per_word) / len(click_per_word)
+    return avg_click
+
+
+
 def main():
 
     user1 = pd.read_csv('../urop_ad_sample_data/user_1_click_data.csv')
@@ -87,6 +118,14 @@ def main():
     # Running typing speed tests
     print("User 1 typing speed:", calc_and_print_typeSpeed(typingSpeedParser(user1)), "(char/sec)")
     print("User 2 typing speed:", calc_and_print_typeSpeed(typingSpeedParser(user2)), "(char/sec)")
+
+    print("---------------------------------")
+
+    # running the number of clicks test
+    print("User 1 avg clicks per word:", avg_clicks(user1))
+    print("User 2 avg clicks per word:", avg_clicks(user2))
+
+
 
 
 if __name__ == "__main__":
