@@ -1,5 +1,5 @@
 # Data Analysis repo
-This repo for one of the sub-tasks for Tamera Broderikc's Nomon research project
+This repo for one of the sub-tasks for Tamera Broderikc's Nomon research project that involved analysing a set of data and drawing conclusions from it
 
 
 Disclosure
